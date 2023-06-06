@@ -1,2 +1,2 @@
 # MachineLearningSpecialization
-Jupyter Notebooks
+Jupyter Notebooks for the course
